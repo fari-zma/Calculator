@@ -1,4 +1,4 @@
-**Calculator**
+# **Calculator**
 
 A bare minimum calculator app with following operations: addition, subtraction, multiplication, division, modulus.
 
