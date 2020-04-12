@@ -6,7 +6,7 @@ A bare minimum calculator app with following operations: addition, subtraction, 
 Youtube link: https://youtu.be/FQ6IG5Y_Ulk
 
 # **Vide**
-[](src/calculator.gif)
+![](src/calculator.gif)
 
 # **Apk download**
 [app-debug.apk](src/app-debug.apk?raw=true)
