@@ -5,7 +5,7 @@ A bare minimum calculator app with following operations: addition, subtraction, 
 
 Youtube link: https://youtu.be/FQ6IG5Y_Ulk
 
-# **Vide**
+# **Video**
 ![](src/calculator.gif)
 
 # **Apk download**
